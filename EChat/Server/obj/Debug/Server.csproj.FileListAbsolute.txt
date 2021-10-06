@@ -1,0 +1,5 @@
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Server\bin\Debug\Server.exe.config
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Server\bin\Debug\Server.exe
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Server\bin\Debug\Server.pdb
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Server\obj\Debug\Server.exe
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Server\obj\Debug\Server.pdb

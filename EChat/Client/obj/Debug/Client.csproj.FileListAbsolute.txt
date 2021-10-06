@@ -1,0 +1,14 @@
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\bin\Debug\Client.exe.config
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\bin\Debug\Client.exe
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\bin\Debug\Client.pdb
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\App.g.cs
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\MainWindow.baml
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\Client.g.resources
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\Client.exe
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\2\EChat\Client\obj\Debug\Client.pdb
